@@ -1,2 +1,2 @@
-# learning-python
-Python 學習筆記
+# python-snippets
+Python 常用程式碼片段
